@@ -1,0 +1,17 @@
+---
+layout: post
+title:  data scientists against corona
+date:   2020-04-08 13:00:16
+description: help society in its battle against corona
+---
+
+On March 25th we launched <a href="https://dataversuscorona.com/" target="blank">Data scientists Against Corona</a> (DAC), a platform to unite data scientists from all over the world to help society in the battle against corona. 
+
+Today, two weeks after we launched, we have over 90 data scientists and the first four projects are well underway. It is great to see so many people coming together, wanting to help each other and society. 
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Our core team is hard at work, and so is our pool of data scientists! Yesterday, we kicked off 3 projects 💪<br><br>If you know somebody who could need help or want to join our initiative, check out <a href="https://t.co/AiTiD9y5Cs">https://t.co/AiTiD9y5Cs</a> <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/79dUY9X40O">pic.twitter.com/79dUY9X40O</a></p>&mdash; Data scientists Against Corona (@datavscorona) <a href="https://twitter.com/datavscorona/status/1245260097829441536?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+<br/>
+<br/>
+

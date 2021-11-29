@@ -50,10 +50,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: tfblanken # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: tfblanken # your Twitter handle
+linkedin_username: tessa-blanken-60629484 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -70,7 +70,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  best reached through email
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -79,8 +79,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: blog  # your blog must have a name for it to show up in the nav bar
+blog_description: updates
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -88,7 +88,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: tfblanken # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
@@ -183,8 +183,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Blanken
+  first_name: [Tessa, T.]
 
   style: apa
   locale: en

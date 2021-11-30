@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: in peer-reviewed journals
 years: [2021, 2020, 2019, 2018, 2017, 2014]
-nav: true
+nav: false
 ---
 
 <div class="publications">

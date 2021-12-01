@@ -1,6 +1,6 @@
 ---
 layout: page
-title: papers+presentations
+title: output
 nav: true
 dropdown: true
 children: 
@@ -9,4 +9,7 @@ children:
     - title: divider
     - title: presentations
       permalink: /presentations/
+    - title: divider
+    - title: media
+      permalink: /media/
 ---

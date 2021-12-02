@@ -4,7 +4,7 @@ title: media
 permalink: /media/
 description: overview of projects and collaborations
 nav: false
-display_categories: [news, interviews]
+display_categories: [video, interviews, news]
 horizontal: false
 ---
 <div class="projects">

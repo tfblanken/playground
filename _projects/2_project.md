@@ -2,10 +2,16 @@
 layout: page
 title: network intervention analysis
 description: network anlaytical technique to investigate treatment effects
-img: assets/img/3.jpg
+img: assets/img/nia.png
 importance: 2
 category: work
 ---
+
+Page under construction. Info coming soon.
+
+
+***
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

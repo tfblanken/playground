@@ -2,10 +2,18 @@
 layout: page
 title: science versus corona
 description: data science to answer societal questions
-img: assets/img/12.jpg
+img: assets/img/science-versus-logo.jpg
 importance: 1
 category: work
 ---
+
+
+
+
+Page under construction. Info coming soon.
+
+
+***
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

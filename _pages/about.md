@@ -26,7 +26,6 @@ My <a href="https://research.vu.nl/en/publications/changing-perspectives-on-inso
 During COVID-19, I co-founded the interdisciplinary platform <a href="https://scienceversuscorona.com/" target="blank">Science versus Corona</a>, including a data consultancy desk, to unite scientistis across disciplines to understand and fight the coronavirus. I currently <a href="https://sobedsc.wordpress.com/research/">lead the research</a> we are doing on behavioural solutions to COVID-19 and am involved in the <a href="https://www.ampl-psych.com/projects/minds-for-mobile-agents/" target="blank">M4MA lab</a> that was initiated from this work to model pedestrain behaviour.  
 
 I am a member of the <a href="https://dsc.uva.nl/people/affiliate-members/affiliate-members.html" target="blank">Data Science Centre</a> at the UvA, who funded part of my postdoc within the <a href="https://sobedsc.wordpress.com/team/" target="blank">Social and Behavioral Data Science Centre</a>. In addition I received a personal research grant from the BIAL Foundation to investigate the cross-modal link between sleep and mood. 
+<br/>
+<br/>
 
-## note:
-
-<<webiste under construction>>

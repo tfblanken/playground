@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: New paper on how to promote physical distancing
+date: 2021-10-13 16:11:00-0400
 inline: false
 ---
 

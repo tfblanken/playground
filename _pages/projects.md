@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: overview of projects and collaborations
 nav: true
-display_categories: [work, fun, collaborations]
+display_categories: [work, affiliations, collaborations]
 horizontal: false
 ---
 <div class="projects">

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-12 15:59:00-0400
+date: 2022-01-10 15:59:00-0400
 inline: true
 ---
 
-Minds for mobile agent lab now has a new website!
+There will be several student projects for the coming semester. Both internships and theses are possible, and projects can be more theoretical or practical. Send me an e-mail if you are interested! 

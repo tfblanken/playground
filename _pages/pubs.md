@@ -1,7 +1,7 @@
 ---
 layout: page
-title: pubs
-permalink: /pubs/
+title: publications
+permalink: /publications/
 description: publications
 nav: false
 display_categories: [selected preprints, 2021, 2020, 2019, earlier publications]

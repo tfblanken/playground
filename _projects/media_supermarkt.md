@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supermarket results 
-description: After we presented our first results of the supermarket experiment on June 2nd 2021, Hart van Nederland visited us at campus to hear more about it. 
+description: After we presented our first results of the supermarket experiment, Hart van Nederland visited us at campus to hear more about it. (June 2021)
 img: assets/img/supermarket-results.png
 redirect: https://www.hartvannederland.nl/coronavirus/onderzoek-wijst-uit-verplicht-winkelen-met-karretje-heeft-geen-effect
 importance: 1

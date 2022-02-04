@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Lableven 
-description: The UvA visited our real-life experiment in the supermarket to document our "lab life" with the Smart Distance Lab (in Dutch)
+description: The UvA visited our real-life experiment in the supermarket to document our "lab life" with the Smart Distance Lab. (in Dutch) (March, 2021)
 img: assets/img/lableven.png
 redirect: https://www.uva.nl/content/nieuws/nieuwsberichten/2021/04/het-smart-distance-lab-helpt-je-afstand-te-houden-in-de-supermarkt.html?origin=ZTqIajedSzmOmNHrCB8ujw
-importance: 1
+importance: 3
 category: video
 ---
 

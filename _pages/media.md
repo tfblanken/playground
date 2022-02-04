@@ -2,7 +2,7 @@
 layout: page
 title: media
 permalink: /media/
-description: overview of projects and collaborations
+description: my research in the media
 nav: false
 display_categories: [video, interviews, news]
 horizontal: false

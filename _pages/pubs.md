@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: overview of projects and collaborations
-nav: true
-display_categories: [topics, affiliations, collaborations]
+title: pubs
+permalink: /pubs/
+description: publications
+nav: false
+display_categories: [selected preprints, 2021, 2020, 2019, 2018, earlier publications]
 horizontal: false
 ---
 <div class="projects">

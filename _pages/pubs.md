@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 description: publications
 nav: false
-display_categories: [selected preprints, 2021, 2020, 2019, earlier publications]
+display_categories: [selected preprints, 2022, 2021, 2020, 2019, earlier publications]
 horizontal: false
 ---
 <div class="projects">

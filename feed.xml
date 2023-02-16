@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://tfblanken.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://tfblanken.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-02-16T15:34:26+00:00</updated><id>https://tfblanken.github.io/feed.xml</id><title type="html">blank</title><subtitle>Tessa Fee Blanken · Postdoc researcher · University of Amsterdam
+</subtitle><entry><title type="html">phd defense</title><link href="https://tfblanken.github.io/blog/2020/phd-defense/" rel="alternate" type="text/html" title="phd defense" /><published>2020-09-18T13:00:16+00:00</published><updated>2020-09-18T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2020/phd-defense</id><content type="html" xml:base="https://tfblanken.github.io/blog/2020/phd-defense/"><![CDATA[<p>On September 18th I successfully defended my thesis and obtained my PhD with the highest distintion cum laude!</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last week I defended my thesis &quot;changing perspectives on insomnia and depression: from symptoms to system&quot; ✨💫!! Very happy &amp; looking forward to what comes next! <a href="https://t.co/0iEkyZjiYN">https://t.co/0iEkyZjiYN</a> <a href="https://t.co/GRt6NjgJYm">pic.twitter.com/GRt6NjgJYm</a></p>&mdash; Tessa Blanken (@tfblanken) <a href="https://twitter.com/tfblanken/status/1309763279330390016?ref_src=twsrc%5Etfw">September 26, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><br />
+<br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[changing perspectives on insomnia and depression]]></summary></entry><entry><title type="html">science versus corona &amp;amp; BECON</title><link href="https://tfblanken.github.io/blog/2020/sdl/" rel="alternate" type="text/html" title="science versus corona &amp;amp; BECON" /><published>2020-09-03T13:00:16+00:00</published><updated>2020-09-03T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2020/sdl</id><content type="html" xml:base="https://tfblanken.github.io/blog/2020/sdl/"><![CDATA[<p>In March we (<a href="https://twitter.com/CharlotteCTanis" target="blank">Charlotte Tanis</a>, <a href="https://fabiandablander.com/" target="blank">Fabian Dablander</a>, <a href="https://dennyborsboom.com/" target="blank">Denny Borsboom</a>) launched Data versus Corona, a platform to unite data scientists from all over the world to offer their assistance in COVID-19 research. However, we soon realized that data analysis alone was not going to get us out of the crisis. Therefore, in April, we launched the platform <a href="https://strategiesversuscorona.com/en/" target="blank">Strategies versus Corona</a>, to crowdsource, model, and evaluate possible exit strategies through an Open Science and Citizen Science based initiative. Both platforms were united in <a href="https://scienceversuscorona.com/" target="blank">Science versus Corona</a>, with the ultimate goal to bring together people, ideas, and knowledge trying to move out of this crisis. Among other things, the website contains <a href="https://scienceversuscorona.com/blog/" target="blank">blog posts</a> from a.o. experts in the field, and contains apps that allow you to explore the virous spread around the world and the effect of <a href="https://scienceversuscorona.shinyapps.io/covid-forecast/" target="blank">various interventions</a>. Check it out! Also, Anouk Bercht, journalist of Dutch magazine ‘De Psycholoog’, was part of our platform for one week and wrote this very nice <a href="https://www.tijdschriftdepsycholoog.nl/artikelen/project-exit-lockdown/" target="blank">report</a> about it.</p>
+
+<p>But that was then, in March/ April, and times are moving fast. Last weekend, together with Charlotte, Denny, and a great team of volunteers we stepped away from our computers and conducted a <em>very</em> large scale behavioral experiment to investigate social distancing measures, collecting over 197K datapoints!</p>
+
+<p>In the summer, we stumbled upon and started a collaboration with the <a href="https://smartdistancelab.nl/" target="blank">Smart Distance Lab</a> (SDL). SDL organised an art fair in Amsterdam Noord, and offered an opportunity for companies and scientists to use this art fair to investigate various social distancing measures. We joined forces, and together with a lot of great people we conducted a <em>very</em> large scale experiment into the effectiveness of face masks, buzzers, and other nudges. For the full story, read this great thread by Denny on how we went from a conceptual idea in May (see the paper explaining our idea <a href="https://psyarxiv.com/53ey9/" target="blank">here</a>), to this study with hundreds of participants in August.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I just spent three amazing days with <a href="https://twitter.com/tfblanken?ref_src=twsrc%5Etfw">@tfblanken</a> and <a href="https://twitter.com/CharlotteCTanis?ref_src=twsrc%5Etfw">@CharlotteCTanis</a> in the <a href="https://twitter.com/kromhouthal?ref_src=twsrc%5Etfw">@kromhouthal</a>. We measured social distancing behavior during the Art Fair organized by <a href="https://twitter.com/hashtag/smartdistancelab?src=hash&amp;ref_src=twsrc%5Etfw">#smartdistancelab</a>. This is how the biggest behavioral experiment I&#39;ve ever done came to be. <a href="https://t.co/aXoXHvoUdq">pic.twitter.com/aXoXHvoUdq</a></p>&mdash; Denny Borsboom (@BorsboomDenny) <a href="https://twitter.com/BorsboomDenny/status/1300390098417188864?ref_src=twsrc%5Etfw">August 31, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><br />
+<br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[large-scale social distancing study in the Smart Distance Lab]]></summary></entry><entry><title type="html">data scientists against corona</title><link href="https://tfblanken.github.io/blog/2020/dac/" rel="alternate" type="text/html" title="data scientists against corona" /><published>2020-04-08T13:00:16+00:00</published><updated>2020-04-08T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2020/dac</id><content type="html" xml:base="https://tfblanken.github.io/blog/2020/dac/"><![CDATA[<p>On March 25th we launched <a href="https://dataversuscorona.com/" target="blank">Data scientists Against Corona</a> (DAC), a platform to unite data scientists from all over the world to help society in the battle against corona.</p>
+
+<p>Today, two weeks after we launched, we have over 90 data scientists and the first four projects are well underway. It is great to see so many people coming together, wanting to help each other and society.</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Our core team is hard at work, and so is our pool of data scientists! Yesterday, we kicked off 3 projects 💪<br /><br />If you know somebody who could need help or want to join our initiative, check out <a href="https://t.co/AiTiD9y5Cs">https://t.co/AiTiD9y5Cs</a> <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/79dUY9X40O">pic.twitter.com/79dUY9X40O</a></p>&mdash; Data scientists Against Corona (@datavscorona) <a href="https://twitter.com/datavscorona/status/1245260097829441536?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><br />
+<br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[help society in its battle against corona]]></summary></entry><entry><title type="html">powerful women on sleep</title><link href="https://tfblanken.github.io/blog/2020/glamour/" rel="alternate" type="text/html" title="powerful women on sleep" /><published>2020-03-12T13:00:16+00:00</published><updated>2020-03-12T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2020/glamour</id><content type="html" xml:base="https://tfblanken.github.io/blog/2020/glamour/"><![CDATA[<p>Glamour asked me to contribute to an article on how to sleep better. Although I’m no sleep therapist, and my research does not directly result in tips and tricks, it does give an important message that they were very happy to share: sleep - and insomnia - goes well beyond sleep itself. We found that the context in which sleep problems are developed and maintained may be very important to our understanding and treatment of insomnia. I was happy to share my thoughts on insomnia and honoured to be introduced by glamour as a powerful woman!</p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Sweet dreams 😴 <a href="https://t.co/7uRcMuUbyL">https://t.co/7uRcMuUbyL</a></p>&mdash; Glamour (@glamourmag) <a href="https://twitter.com/glamourmag/status/1237874710802653188?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p><br />
+<br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[featured in glamour magazine]]></summary></entry><entry><title type="html">workshops</title><link href="https://tfblanken.github.io/blog/2020/workshops/" rel="alternate" type="text/html" title="workshops" /><published>2020-02-13T13:00:16+00:00</published><updated>2020-02-13T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2020/workshops</id><content type="html" xml:base="https://tfblanken.github.io/blog/2020/workshops/"><![CDATA[<p>Over the last couple of months I co-organised two workshops on networks in psychology.</p>
+
+<p>The first workshop took place on December 17 and 18 2019 in Trondheim and was organised together with <a href="http://gabylunansky.com/" target="blank">Gaby Lunansky</a>. In this workshop we focused on conducting network analyses using R, see schedule below. We are both happy to share our materials!</p>
+
+<p><img src="/img/191216_trondheim_schedule.jpg" alt="drawing" width="800" /></p>
+
+<p>The second workshop was taught together with Marie Deserno in Belfast, February 13-14 of this year. In addition to applying network analyses in R, we also discussed the theoretical foundations underlying network analyses, and followed up with more advanced topics like time series analyses:</p>
+
+<p><img src="/img/200212_belfasts_schedule.jpg" alt="drawing" width="800" /></p>
+
+<p><br />
+<br /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[workshops on networks in psychology in Trondheim and Belfast]]></summary></entry><entry><title type="html">network intervention analysis</title><link href="https://tfblanken.github.io/blog/2019/network-intervention-analysis/" rel="alternate" type="text/html" title="network intervention analysis" /><published>2019-02-04T16:40:16+00:00</published><updated>2019-02-04T16:40:16+00:00</updated><id>https://tfblanken.github.io/blog/2019/network-intervention-analysis</id><content type="html" xml:base="https://tfblanken.github.io/blog/2019/network-intervention-analysis/"><![CDATA[<p>This blog post was originally written for the <a href="http://psychosystems.org/network-intervention-analysis/" target="blank">psychosystems blog</a>.</p>
+
+<p>According to the <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5269502/" target="blank">network theory of mental disorders</a>, mental disorders are developed and sustained through direct interactions between symptoms [1]. From this conceptualization it follows that treatment of mental disorders should involve changing the network of interrelated symptoms. While over the past years many studies have investigated the network structure of psychopathologies <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5226976/" target="blank">[2]</a>, the effect of psychological treatment on the network of interrelated symptoms has rarely been assessed. Moreover, network analysis techniques provide a unique opportunity to investigate treatment effects at a more detailed symptom level. In <a href="https://www.karger.com/Article/FullText/495045" target="blank">this new study</a> we aspired to adopt and extent the network approach to investigate specific and sequential treatment effects—a technique we labelled Network Intervention Analysis (NIA) [3]. NIA involves estimating a network of interrelated symptoms and including an additional treatment indicator variable that encodes the treatment condition that a participants belongs to. Including such a variable into the network allows to see which symptoms are conditionally dependent on this treatment variable. Since the treatment can influence the symptoms but not vice versa, this dependency indicates the symptoms that are directly affected by treatment.</p>
+
+<p>In our illustration of NIA we investigated the effect of cognitive behavioral therapy for insomnia (CBTI) on co-occurring insomnia and depression symptoms. More traditional analyses had showed that after completion, the treatment had relieved both insomnia and depression symptoms <a href="https://www.ncbi.nlm.nih.gov/pubmed/29747706" target="blank">[4]</a>. It remained unclear, however, whether the effect of treatment on the depression symptoms occurred via improving the sleep problems, or whether CBTI influenced the depression symptoms directly. Using NIA across 10 measurement weeks (2 prior to treatment, 5 during treatment, and 3 after treatment) we could identify that CBTI predominantly affected the sleep problems, indicating that the improvements in depression likely occur via CBTI-induced improvements in sleep.</p>
+
+<p><img src="/img/NIA_blog.jpg" alt="drawing" width="800" /></p>
+
+<div class="col three caption">
+	Figure. Network structure before, during, and after treatment. The networks include the Insomnia Severity Index and Patient Health Questionnaire items (circles) and treatment (square). The size of the node is proportional to the difference in symptom severity between the treatment and control group, where smaller node sizes represent greater differences in favor of the treatment group. All ten networks corresponding to each of the measurement weeks are shown in the paper. An animated version can be found online.
+</div>
+
+<p><br />
+<br /></p>
+
+<p>This paper is a first illustration of how NIA can be used to investigate sequential and symptom-specific treatment induced changes over time. We hope to further develop NIA into a more sophisticated technique to investigate treatment effects over time—to ultimately better understand treatment mechanisms and reveal clues to their optimization.</p>
+
+<hr />
+
+<p><br /></p>
+
+<p>[1] Borsboom D. (2017). A network theory of mental disorders. World Psychiatry, 16, 5-13.</p>
+
+<p>[2] Fried EI, Van Borkulo CD, Cramer AOJ, Boschloo L, Schoevers RA, Borsboom D. (2017). Mental disorders as networks of problems: A review of recent insights. Social Psychiatry and Psychiatric Epidemiology, doi.org/10.1007/s00127-016-1319-z.</p>
+
+<p>[3] Blanken TF*, Van der Zweerde T*, Van Straten A, Van Someren EJW, Borsboom, D, Lancee J. (2019). Introducing Network Intervention Analysis to investigate sequential, symptom-specific treatment effects: A demonstration in co-occurring insomnia and depression. Psychotherapy and Psychosomatics, doi.org/10.1159/000495045.</p>
+
+<p>[4] Van der Zweerde T, Van Straten A, Effting M, Kyle SD, Lancee J. (2018). Does online insomnia treatment reduce depressive symptoms? A randomized controlled trial in individuals with both insomnia and depressive symptoms. Psychological Medicine, 49, 501-599.</p>
+
+<p>*shared first authors</p>]]></content><author><name></name></author><summary type="html"><![CDATA[blog post on our new paper introducing Network Intervention Analysis]]></summary></entry><entry><title type="html">a trip to budapest</title><link href="https://tfblanken.github.io/blog/2018/a-trip-to-budapest/" rel="alternate" type="text/html" title="a trip to budapest" /><published>2018-12-01T10:40:00+00:00</published><updated>2018-12-01T10:40:00+00:00</updated><id>https://tfblanken.github.io/blog/2018/a-trip-to-budapest</id><content type="html" xml:base="https://tfblanken.github.io/blog/2018/a-trip-to-budapest/"><![CDATA[<p>Back in 2016 I read a great paper by Santo Fortunato on community detection in graphs [1]. Especially the following quote sparked my attention:</p>
+
+<blockquote>
+	“Identifying modules and their boundaries allows for a classification of vertices, according to their structural position in the modules. So, vertices with a central position in their clusters, i.e. sharing a large number of edges with the other group partners, may have an important function of control and stability within the group; vertices lying at the boundaries between modules play an important role of mediation and lead the relationships and exchanges between different communities.” (p. 3)
+</blockquote>
+
+<p>At the time, I was working together with Marie Deserno and Jonas Dalege on a large “landscape of psychopathology”. The possibility to look for overlapping communities wihtin this landscape got us all excited, and finally resulted in a publication which is described in <a href="https://tfblanken.github.io/2018/04/06/stabilizing-communicating-symptoms.html" target="blank">this</a> blogpost.</p>
+
+<p>Key to this project was the identification of <em>overlapping</em> communities. One algorithm that is developed to do so is the program <a href="http://www.cfinder.org/" target="blank">CFinder</a>, developed by Tamás Vicsek and colleagues from Eötvös University in Budapest. During the analyses we became fans of CFinder and sometimes daydreamed about going to Budapest to meet the geniuses behind the program, talk about our project, and discuss possiblities for future projects. I don’t know how or when precisely, but over time this daydreaming evolved into an actual email and eventually our trip to Budapest in November 2018.</p>
+
+<div class="img_row">
+	<img class="col one" src="/img/budapest3.jpg" width="200" alt="" title="example image" />
+	<img class="col two" src="/img/budapest1.jpg" alt="" title="example image" />
+</div>
+
+<p><br /></p>
+<hr />
+
+<p><br /></p>
+
+<p>[1] Fortunato, S. Community detection in graphs. <em>Phys. Rep. 486,</em> 75-174 (2010).</p>]]></content><author><name></name></author><summary type="html"><![CDATA[visiting Tamás Vicsek lab in the department of Biological Physics, Eötvös University]]></summary></entry><entry><title type="html">stabilizing and communicating symptoms</title><link href="https://tfblanken.github.io/blog/2018/stabilizing-communicating-symptoms/" rel="alternate" type="text/html" title="stabilizing and communicating symptoms" /><published>2018-04-06T13:00:16+00:00</published><updated>2018-04-06T13:00:16+00:00</updated><id>https://tfblanken.github.io/blog/2018/stabilizing-communicating-symptoms</id><content type="html" xml:base="https://tfblanken.github.io/blog/2018/stabilizing-communicating-symptoms/"><![CDATA[<p>This blog post was originally written for the <a href="https://psych-networks.com/new-paper-on-the-role-of-stabilizing-and-communicating-symptoms/" target="blank">psych networks</a> blog together with <a href="https://mariekdeserno.github.io/" target="blank">Marie Deserno</a>.</p>
+
+<p>As two graduate students in the Psychological Methods department at the University of Amsterdam, we were familiarized with the work of Cramer and Borsboom on conceptualizing mental disorders as complex networks of interacting symptoms. This conceptualization signifies the role of symptoms and their interactions within and across disorders, and has inspired novel theoretical definitions of clinical concepts such as core symptoms and comorbidity1.</p>
+
+<p>We often found ourselves discussing the potential of tools and metrics from other research areas using network analytic techniques. In the summer of 2016 we came across Santo Fortunato’s Community detection in graphs (2010) – an excellent paper on various applications and implications of network analytic techniques2. One specific sentence caught our attention:</p>
+
+<blockquote>
+	“Identifying modules and their boundaries allows for a classification of vertices, according to their structural position in the modules. So, vertices with a central position in their clusters, i.e. sharing a large number of edges with the other group partners, may have an important function of control and stability within the group; vertices lying at the boundaries between modules play an important role of mediation and lead the relationships and exchanges between different communities.” (p. 3)
+</blockquote>
+
+<p>Reading this passage immediately sparked a discussion on the numerous possibilities of utilizing the community detection toolbox to develop empirical definitions of these theoretical concepts. The notion of “vertices with a central position within their cluster […] may have an important function of control and stability within the group” can readily be translated to the idea of core symptoms. Similarly, the idea that “vertices lying at the boundaries between modules play an important role [… in] exchanges between different communities” can be mapped onto the theoretical definition of comorbidity within the network perspective on psychopathology.</p>
+
+<p>In our paper, entitled “The role of stabilizing and communicating symptoms given overlapping communities in psychopathology”, we aspired to complement the statistical toolbox of the network approach to psychopathology by exploring what overlapping community detection analysis has to offer. Using community detection and inspecting the differential role of symptoms within and between communities offers a framework to study the clinical concepts of comorbidity, heterogeneity and hallmark symptoms. Symptoms with many and strong connections within a community, defined as stabilizing symptoms, could be thought of as the core of a community, whereas symptoms that belong to multiple communities, defined as communicating symptoms, facilitate the communication between problem areas.</p>
+
+<p>We applied community detection to a large dataset (N=2089) assessing a variety of psychological problems using the Symptom Checklist 90. We identified 18 communities of closely related symptoms. Importantly, these communities are empirically derived instead of theoretically defined. In the paper we illustrate how the proposed definitions on the differential role of symptoms can inform us on the structure of the psychopathological landscape: both globally as well as locally. As such, we adopted established metrics in network science to accelerate our understanding of the psychopathological landscape.</p>
+
+<p><img src="/img/local_community.png" alt="drawing" width="600" /></p>
+
+<div class="col three caption">
+	Figure 1. Illustration of (a) the local structure of Feelings of Worthlessness community, (b) its connection to other communities; and (c) a symptom-level example of its connection to the community Worried about Sloppiness.
+</div>
+
+<p><br />
+<br /></p>
+
+<p>From our perspective, this endeavour highlights that diving into the world of network science across all kinds of research areas can inspire great advances for the toolbox we use to study psychopathology networks. Drawing inspiration from fields concerned with complex systems such as brain networks, economic networks and social networks, the options seem infinite – and we cannot wait to explore them.</p>
+
+<hr />
+
+<p><br /></p>
+
+<p>[1] Cramer, A.O.J., Waldorp, L.J., van der Maas, H.L.J. &amp; Borsboom, D. Comorbidity: a network perspective. <em>Behav. Brain. Sci. 33,</em> 137-150 (2010).</p>
+
+<p>[2] Fortunato, S. Community detection in graphs. <em>Phys. Rep. 486,</em> 75-174 (2010).</p>]]></content><author><name></name></author><summary type="html"><![CDATA[blog post on our new paper on the role of stabilizing and communicating symptoms]]></summary></entry></feed>

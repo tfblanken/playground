@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: postdoctoral researcher
+description: assistant professor
 
 profile:
   align: right
@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral researcher within the <a href="http://psychosystems.org/" target="blank">psychosystems</a> group, at the Psychological Methods department of the University of Amsterdam (UvA). 
+**UPDATE: please check my updated website <a href="http://tfblanken.com/" target="blank">tfblanken.com</a>!**
+
+I am an assistant professor within the <a href="http://psychosystems.org/" target="blank">psychosystems</a> group, at the Psychological Methods department of the University of Amsterdam (UvA). 
 
 My research focuses on the complex interplay between insomnia and depression -- at the biological, psychological, and social level. The aim to integrate these different levels comes from combining my educational background in psychological methods (learning about psychopathology networks) with my PhD at the Netherlands Insitute for Neuroscience (focusing on insomnia and depression) and work I did during the COVID-19 crisis (investigating social contact networks along which behaviour can spread). The common denominator is the use of network analyses and complexity science, which I now use to link these levels and shed light on the dynamic interplay between insomnia and depression (see selected publications below).
 

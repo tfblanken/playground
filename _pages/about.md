@@ -17,7 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**UPDATE: please check my updated website <a href="http://tfblanken.com/" target="blank">tfblanken.com</a>!**
+
+**NOTE: this website is outdated and no longer updated**
+**Please check my new website <a href="http://tfblanken.com/" target="blank">tfblanken.com</a>!**
 
 I am an assistant professor within the <a href="http://psychosystems.org/" target="blank">psychosystems</a> group, at the Psychological Methods department of the University of Amsterdam (UvA). 
 
